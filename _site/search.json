@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Cognitieve fluctuatie",
+      "author": [],
+      "contents": "\nWat is Cognitieve Fluctuatie?\nMenselijke prestaties verschillen op veel dimensies - sommige mensen kunnen beter lezen, rekenen, schilderen en fietsen dan anderen. Een aspect van prestatie dat echter vaak verwaarloosd wordt, is de fluctuatie , of variabiliteit: hoe goed of slecht je ook bent in iets, je eigen prestatie zal in de loop van de tijd variëren.\nIn tegenstelling tot computers varieert onze uitvoering van cognitieve taken bij elke herhaling. Soms kan dit een goede zaak zijn: variabiliteit kan reflecteren dat we de ruimte van mogelijke oplossingen voor een probleem verkennen. Op andere momenten weerspiegelt variabiliteit een gebrek aan focus, gemakkelijk afgeleid worden of na verloop van tijd verveeld raken. De mate waarin kinderen schommelen in hun cognitieve prestaties is het centrale onderzoeksgebied in het CODEC project. Met behulp van technologische innovaties zoals op tablets gebaseerde taken en nieuwe kwantitatieve modelleringstechnieken hopen we de oorzaken en gevolgen van de ups en downs in de cognitieve prestaties van de kinderen beter te begrijpen\nWe weten dat kinderen snel ontwikkelen wat betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar ook bij toetsmomenten zoals de CITO. Wat we echter minder vaak meten is zogeheten fluctuatie, of variabiliteit – verschillen in geheugen of snelheid van het ene moment op het andere, tussen momenten in de dag, of tussen dagen. In deze studie hopen we beter te begrijpen hoe die fluctuatie plaatsvindt, of sommige kinderen deze variabiliteit meer of minder laten zien, en hoe die variabiliteit samenhangt met allerlei zaken: slaap, creativiteit, gemoedstoestand en meer.\nimage: “Websiteimage.jpg”\nHet belang van cognitieve fluctuatie\n\n\n\n",
+      "last_modified": "2023-07-03T11:41:43+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "",
+      "author": [],
+      "contents": "\nWelkom\nWelkom bij de Cognitive Development of Early Childhood (CODEC) studie, een 5 jaar durend onderzoeksproject naar cognitieve fluctuatie in kinderen op de basisschool.\nIn dit longitudinale onderzoek bestuderen we een week per jaar, voor drie jaar lang, de cognitieve fluctuatie van kinderen op de basisschool. Het onderzoek begint in januari 2024 en zal doorlopen tot januari 2027.\nMet het meten van de cognitieve fluctuatie in kinderen kijken we hoe erg kinderen verschillen in hun eigen prestaties, per test moment. De uitvoering van een taakje verschilt bij mensen namelijk bij elke herhaling. Bij sommige kinderen zijn deze verschillen per uitvoering veel groter dan bij andere kinderen. Dat betekent dat sommige kinderen altijd rond hun gemiddelde niveau scoren, terwijl andere kinderen erg grote pieken, en dalen kunnen. Onderzoek is ontzettend belangrijk, omdat…\nHet onderstaande filmpje beschrijft het verloop van het onderzoek.\nDoe mee aan het onderzoek\n\n\n\n",
+      "last_modified": "2023-07-03T11:41:44+02:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

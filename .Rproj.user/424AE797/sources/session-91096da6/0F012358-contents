@@ -1,0 +1,30 @@
+---
+title: 
+description: |
+
+---
+## Contact
+
+Heeft u vragen die niet beantwoord worden op de site? Dan kunt u mailen naar:
+<strong>codecstudies.cns@radboudumc.nl
+</strong>
+
+## Route  
+
+Het MRI deel van de studie bevindt zich bij het Donders Instituut in het Trigon gebouw in Nijmegen. 
+Adres: Kapittelweg 29, 6525 EN Nijmegen
+
+<strong> Met het openbaar vervoer </strong>
+U kunt vanaf Nijmegen Centraal de bus/trein nemen naar station Nijmegen Heyendaal. Vanaf station Nijmegen Heyendaal is het ongeveer 10 minuten lopen naar Trigon. De route is hieronder weergeven. Alle reiskosten naar het Donders Instituut zullen vergoed worden.
+
+```{r, out.width = "100%", fig.align = 'center', echo=FALSE}
+
+knitr::include_graphics("images/Route.png")
+
+```
+
+<strong> Met de auto </strong>
+U kunt parkeren voor de hoofdingang van het Trigon op een van de parkeerplaatsen. Deze parkeerplaatsen zijn te bereiken via de ingang tussen het HAN gebouw en het Trigon gebouw. De parkeerplaats is afgesloten met een slagboom, die geopend wordt door een medewerker. Indien de parkeerplaats vol is, kunt u parkeren op “Laan van Scheut” / “Rode Kruislaan”, straten achter het Trigon gebouw. Hier kunt u (betaald) parkeren, als u betaalt via de parkeerautomaat of de Parkmobile app, en uw bewijsje van betaling bewaart dan kunt u de gemaakte parkeerkosten bij ons declareren
+
+<strong> Met de fiets </strong>
+Het Donders Instituut is bereikbaar op de fiets. Er is een (buiten) fietsenstalling voor het gebouw. 

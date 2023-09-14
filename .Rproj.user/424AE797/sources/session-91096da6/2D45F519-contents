@@ -1,0 +1,110 @@
+---
+title: "Team"
+output:
+  distill::distill_article:
+    theme: theme.css
+--- 
+<center>
+
+## Team
+
+</center>
+
+Ons team is gevestigd bij het [Lifespan Cognitive Dynamics Lab](https://lifespancognitivedynamics.com) aan het [Donders Instituut](https://www.ru.nl/donders/), in Nijmegen. Ons Team bestaat uit enthousiaste onderzoekers die 
+
+
+Groepsfoto
+
+
+### Rogier Kievit
+
+
+
+```{r, out.width = "30%", fig.align = 'center', echo=FALSE}
+
+knitr::include_graphics("images/Rogier.png")
+
+```
+
+
+Principal Investigator
+
+<i class="fab fa-twitter"></i>[  @rogierK](https://twitter.com/rogierK)
+<i class="fas fa-envelope"></i>[  rogier.kievit@radboudumc.nl](rogier.kievit@radboudumc.nl)
+<i class="ai ai-google-scholar"></i>[  google scholar](https://scholar.google.com/citations?user=kplx7AUAAAAJ&hl=en)
+<i class="ai ai-orcid"></i>[  ORCID](https://orcid.org/0000-0003-0700-4568)
+
+
+
+(Tekstje)
+
+---
+
+```{r, out.width = "40%", fig.align = 'center', echo=FALSE}
+
+knitr::include_graphics("images/Ilse.png")
+
+```
+
+## Ilse Coolen
+
+Postdoctoral Researcher
+
+<i class="fab fa-twitter"></i>[  @CoolenIlse](https://twitter.com/CoolenIlse)
+<i class="fas fa-envelope"></i>[  ilse.coolen@radboudumc.nl](ilse.coolen@radboudumc.nl)
+<i class="ai ai-google-scholar"></i>[  google scholar](https://scholar.google.com/citations?hl=en&user=e0K_sngAAAAJ)
+<i class="ai ai-orcid"></i>[  ORCID](https://orcid.org/0000-0003-2254-7851)
+
+
+(TEKSTJE)
+
+---
+
+```{r, out.width = "40%", fig.align = 'center', echo=FALSE}
+
+knitr::include_graphics("images/Jessica.png")
+
+```
+
+
+### Jessica Schaaf
+
+Postdoctoral researcher
+
+<i class="fab fa-twitter"></i>[  @JessicaVSchaaf](https://twitter.com/JessicaVSchaaf)
+<i class="fas fa-envelope"></i>[  jessica.schaaf@radboudumc.nl](jessica.schaaf@radboudumc.nl)
+<i class="ai ai-google-scholar"></i>[  google scholar](https://scholar.google.com/citations?user=Yse3MpEAAAAJ&hl=nl)
+<i class="ai ai-orcid"></i>[  ORCID](https://orcid.org/0000-0002-4856-9592)
+
+(Tekstje)
+
+---
+```{r, out.width = "40%", fig.align = 'center', echo=FALSE}
+
+knitr::include_graphics("images/Jordy.png")
+
+```
+### Jordy van Langen
+
+(Tekstje)
+```{r, out.width = "40%", fig.align = 'center', echo=FALSE}
+
+knitr::include_graphics("images/Emma.png")
+
+```
+### Emma 
+
+Onderzoeksassistent
+
+
+(Tekstje)
+```{r, out.width = "40%", fig.align = 'center', echo=FALSE}
+
+knitr::include_graphics("images/Sophie.png")
+
+```
+## Sophie Hofman
+
+Onderzoeksassistent
+
+(Tekstje)
