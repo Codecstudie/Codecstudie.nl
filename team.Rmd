@@ -10,24 +10,27 @@ output:
 
 </center>
 
-Ons team is gevestigd bij het [Lifespan Cognitive Dynamics Lab](https://lifespancognitivedynamics.com) aan het [Donders Instituut](https://www.ru.nl/donders/), in Nijmegen. Ons Team bestaat uit enthousiaste onderzoekers die 
+<strong> Ons team </strong> is gevestigd bij het [Lifespan Cognitive Dynamics Lab](https://lifespancognitivedynamics.com) aan het [Donders Instituut](https://www.ru.nl/donders/), in Nijmegen. Ons Team bestaat uit enthousiaste onderzoekers die 
 
+```{r, out.width = "100%", fig.align = 'center', echo=FALSE}
 
-Groepsfoto
-
-
-### Rogier Kievit
-
-
-
-```{r, out.width = "30%", fig.align = 'center', echo=FALSE}
-
-knitr::include_graphics("images/Rogier.png")
+knitr::include_graphics("images/Groepsfoto.jpeg")
 
 ```
 
 
-Principal Investigator
+
+---
+
+
+<div style="overflow: auto;">
+  <img src="images/Rogier.png" style="width: 30%; float: left; margin-right: 20px;">
+  <p> <strong> Rogier </strong> is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar
+  is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar </p>
+</div>
+
+
+
 
 <i class="fab fa-twitter"></i>[  @rogierK](https://twitter.com/rogierK)
 <i class="fas fa-envelope"></i>[  rogier.kievit@radboudumc.nl](rogier.kievit@radboudumc.nl)
@@ -35,20 +38,13 @@ Principal Investigator
 <i class="ai ai-orcid"></i>[  ORCID](https://orcid.org/0000-0003-0700-4568)
 
 
-
-(Tekstje)
-
 ---
 
-```{r, out.width = "40%", fig.align = 'center', echo=FALSE}
-
-knitr::include_graphics("images/Ilse.png")
-
-```
-
-## Ilse Coolen
-
-Postdoctoral Researcher
+<div style="overflow: auto;">
+  <img src="images/Ilse.png" style="width: 30%; float: left; margin-right: 20px;">
+  <p> <strong> Ilse </strong> is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar
+  is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar </p>
+</div>
 
 <i class="fab fa-twitter"></i>[  @CoolenIlse](https://twitter.com/CoolenIlse)
 <i class="fas fa-envelope"></i>[  ilse.coolen@radboudumc.nl](ilse.coolen@radboudumc.nl)
@@ -56,55 +52,47 @@ Postdoctoral Researcher
 <i class="ai ai-orcid"></i>[  ORCID](https://orcid.org/0000-0003-2254-7851)
 
 
-(TEKSTJE)
 
 ---
 
-```{r, out.width = "40%", fig.align = 'center', echo=FALSE}
-
-knitr::include_graphics("images/Jessica.png")
-
-```
-
-
-### Jessica Schaaf
-
-Postdoctoral researcher
-
-<i class="fab fa-twitter"></i>[  @JessicaVSchaaf](https://twitter.com/JessicaVSchaaf)
+<div style="overflow: auto;">
+  <img src="images/Jessica.png" style="width: 30%; float: left; margin-right: 20px;">
+  <p> <strong> Jessica </strong> is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar
+  is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar  
+  <i class="fab fa-twitter"></i>[  @JessicaVSchaaf](https://twitter.com/JessicaVSchaaf)
 <i class="fas fa-envelope"></i>[  jessica.schaaf@radboudumc.nl](jessica.schaaf@radboudumc.nl)
 <i class="ai ai-google-scholar"></i>[  google scholar](https://scholar.google.com/citations?user=Yse3MpEAAAAJ&hl=nl)
 <i class="ai ai-orcid"></i>[  ORCID](https://orcid.org/0000-0002-4856-9592)
+</p>
+</div>
 
-(Tekstje)
+Postdoctoral researcher
+
+
+
+
 
 ---
-```{r, out.width = "40%", fig.align = 'center', echo=FALSE}
 
-knitr::include_graphics("images/Jordy.png")
+<div style="overflow: auto;">
+  <img src="images/Jordy.png" style="width: 30%; float: left; margin-right: 20px;">
+  <p> <strong> Jordy </strong> is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar
+  is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar </p>
+</div>
 
-```
-### Jordy van Langen
-
-(Tekstje)
-```{r, out.width = "40%", fig.align = 'center', echo=FALSE}
-
-knitr::include_graphics("images/Emma.png")
-
-```
-### Emma 
-
-Onderzoeksassistent
+---
 
 
-(Tekstje)
-```{r, out.width = "40%", fig.align = 'center', echo=FALSE}
+<div style="overflow: auto;">
+  <img src="images/Emma.png" style="width: 30%; float: left; margin-right: 20px;">
+  <p> <strong> Emma </strong> is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar
+  is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar </p>
+</div>
 
-knitr::include_graphics("images/Sophie.png")
+---
 
-```
-## Sophie Hofman
-
-Onderzoeksassistent
-
-(Tekstje)
+<div style="overflow: auto;">
+  <img src="images/Sophie.png" style="width: 30%; float: left; margin-right: 20px;">
+  <p> <strong> Sophie </strong> is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar
+  is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar </p>
+</div>
