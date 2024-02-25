@@ -4,10 +4,10 @@ description: |
 
 ---
 ## Contact
+Email: <b>codecstudies.cns@radboudumc.nl</b>
 
-Heeft u vragen die niet beantwoord worden op de site? Dan kunt u mailen naar:
-<strong>codecstudies.cns@radboudumc.nl
-</strong>
+We kunnen ons natuurlijk voorstellen dat u vragen heeft over de studie, daarom hebben wij de meest voorkomende vragen voor u op een rijtje gezet. [Hier](vragen.html) vindt u de antwoorden op de <b>[veelgestelde vragen](vragen.html)</b>
+
 
 ## Route  
 
@@ -28,3 +28,8 @@ U kunt parkeren voor de hoofdingang van het Trigon op een van de parkeerplaatsen
 
 <strong> Met de fiets </strong>
 Het Donders Instituut is bereikbaar op de fiets. Er is een (buiten) fietsenstalling voor het gebouw. 
+
+<b> Bij binnenkomst </b> U kunt bij binnenkomst plaatsnemen in de wachtkamer, waar u en uw kind zullen worden opgehaald. De wachtkamer bevindt zich direct naast de ingang, aan de linkerkant. Het onderstaande filmpje laat u zien waar u de wachtkamer kan vinden. 
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/4PtZaJI8r3A" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"></iframe></div>
+

@@ -1,0 +1,13 @@
+/* Wit maken van de tekst "Contents" */
+nav#toc d-article h3 {
+  color: white;
+  
+}
+/* Verwijderen van de tekst "Contents" */
+#toc h2 {
+  display: none;
+}
+
+.d-contents {
+    --heading-size: 0px;
+    --contents-size: 13px;

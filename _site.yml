@@ -10,9 +10,13 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Meedoen"
+    - text: "Deelname"
       href: meedoen.html 
-    - text: "Wat is cognitieve fluctuatie?"
+    - text: "Gedragsstudie"
+      href: gedragsstudie.html 
+    - text: "MRI studie"
+      href: MRI.html 
+    - text: "Cognitieve fluctuatie"
       href: about.html
     - text: "Team"
       href: team.html
@@ -20,7 +24,5 @@ navbar:
       href: klas.html
     - text: "Contact"
       href: contact.html
-    - text: "Veel gestelde vragen"
-      href: vragen.html
 output: distill::distill_article
 theme: "themes.css"

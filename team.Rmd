@@ -10,7 +10,8 @@ output:
 
 </center>
 
-<strong> Ons team </strong> is gevestigd bij het [Lifespan Cognitive Dynamics Lab](https://lifespancognitivedynamics.com) aan het [Donders Instituut](https://www.ru.nl/donders/), in Nijmegen. Ons Team bestaat uit enthousiaste onderzoekers die 
+<strong> Ons team </strong> is gevestigd bij het [Lifespan Cognitive Dynamics Lab](https://lifespancognitivedynamics.com) aan het [Donders Instituut](https://www.ru.nl/donders/), in Nijmegen. Ons team bestaat uit enthousiaste onderzoekers die geinteresseerd zijn in hoe, en waarom  cognitieve vaardigheden veranderen gedurende de levensduur. Hier vind je de [publicaties](onderzoek.html) van ons Lab. 
+
 
 ```{r, out.width = "100%", fig.align = 'center', echo=FALSE}
 
@@ -25,74 +26,59 @@ knitr::include_graphics("images/Groepsfoto.jpeg")
 
 <div style="overflow: auto;">
   <img src="images/Rogier.png" style="width: 30%; float: left; margin-right: 20px;">
-  <p> <strong> Rogier </strong> is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar
-  is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar </p>
-</div>
-
-
+  <p>Hallo! Ik ben <b>Rogier Kievit </b> en ik ben hoogleraar ontwikkelingsneurowetenschappen aan het RadboudUMC en het Donders Instituut in Nijmegen. Ik ben nieuwsgierig naar hoe cognitieve vaardigheden zich in de kindertijd ontwikkelen, en welke rol veranderingen in het brein daarbij spelen. Ik leid het CODEC onderzoek. </p>
 
 
 <i class="fab fa-twitter"></i>[  @rogierK](https://twitter.com/rogierK)
 <i class="fas fa-envelope"></i>[  rogier.kievit@radboudumc.nl](rogier.kievit@radboudumc.nl)
-<i class="ai ai-google-scholar"></i>[  google scholar](https://scholar.google.com/citations?user=kplx7AUAAAAJ&hl=en)
+<i class="ai ai-google-scholar"></i>[  Google scholar](https://scholar.google.com/citations?user=kplx7AUAAAAJ&hl=en)
 <i class="ai ai-orcid"></i>[  ORCID](https://orcid.org/0000-0003-0700-4568)
 
+</div>
 
 ---
 
+ 
 <div style="overflow: auto;">
   <img src="images/Ilse.png" style="width: 30%; float: left; margin-right: 20px;">
-  <p> <strong> Ilse </strong> is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar
-  is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar </p>
-</div>
+  <p> Hallo! Ik ben <b>Ilse Coolen</b>. Ik ben senior onderzoeker in ontwikkelingspsychologie aan het Donders Instituut. Ik onderzoek de ontwikkeling van cognitieve vaardigheden in kinderen en ben nieuwsgierig naar hun relatie met academische vaardigheden zoals wiskunde. </p>
+
 
 <i class="fab fa-twitter"></i>[  @CoolenIlse](https://twitter.com/CoolenIlse)
 <i class="fas fa-envelope"></i>[  ilse.coolen@radboudumc.nl](ilse.coolen@radboudumc.nl)
-<i class="ai ai-google-scholar"></i>[  google scholar](https://scholar.google.com/citations?hl=en&user=e0K_sngAAAAJ)
+<i class="ai ai-google-scholar"></i>[  Google scholar](https://scholar.google.com/citations?hl=en&user=e0K_sngAAAAJ)
 <i class="ai ai-orcid"></i>[  ORCID](https://orcid.org/0000-0003-2254-7851)
 
-
-
----
-
-<div style="overflow: auto;">
-  <img src="images/Jessica.png" style="width: 30%; float: left; margin-right: 20px;">
-  <p> <strong> Jessica </strong> is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar
-  is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar  
-  <i class="fab fa-twitter"></i>[  @JessicaVSchaaf](https://twitter.com/JessicaVSchaaf)
-<i class="fas fa-envelope"></i>[  jessica.schaaf@radboudumc.nl](jessica.schaaf@radboudumc.nl)
-<i class="ai ai-google-scholar"></i>[  google scholar](https://scholar.google.com/citations?user=Yse3MpEAAAAJ&hl=nl)
-<i class="ai ai-orcid"></i>[  ORCID](https://orcid.org/0000-0002-4856-9592)
-</p>
 </div>
-
-Postdoctoral researcher
-
-
-
-
-
 ---
 
 <div style="overflow: auto;">
   <img src="images/Jordy.png" style="width: 30%; float: left; margin-right: 20px;">
-  <p> <strong> Jordy </strong> is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar
-  is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar </p>
-</div>
+  <p> Hoi! Mijn naam is <b>Jordy van Langen </b> en ik ben als onderzoeker (PhD student) onderdeel van het CODEC-team. Ik ben geïnteresseerd in hoe en waarom kinderen van elkaar verschillen in hun ontwikkeling.</p>
 
+
+<i class="fab fa-twitter"></i>[  @CoolenIlse](https://twitter.com/CoolenIlse)
+<i class="fas fa-envelope"></i>[  jordy.vanlangen@radboudumc.nl](ilse.coolen@radboudumc.nl)
+<i class="ai ai-google-scholar"></i>[  Google scholar](https://scholar.google.com/citations?hl=en&user=e0K_sngAAAAJ)
+<i class="ai ai-orcid"></i>[  ORCID](https://orcid.org/0000-0003-2254-7851)
+
+</div>
 ---
 
 
 <div style="overflow: auto;">
   <img src="images/Emma.png" style="width: 30%; float: left; margin-right: 20px;">
-  <p> <strong> Emma </strong> is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar
-  is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar </p>
-</div>
+  <p> Hoi! Ik ben <b>Emma Meeussen </b>. Ik ben onderzoeksassistent bij het CODEC-project en haptotherapeut. Ik ben nieuwsgierig naar de manier waarop mensen zich ontwikkelen en hoe we hen daarin het beste kunnen ondersteunen<strong> Emma </strong> is een onderzoeksassistent bij het CODEC project. </p>
 
+
+<i class="fas fa-envelope"></i>[  emma.Meeussen@radboudumc.nl](emma.Meeussen@radboudumc.nl)
+</div>
 ---
 
 <div style="overflow: auto;">
   <img src="images/Sophie.png" style="width: 30%; float: left; margin-right: 20px;">
-  <p> <strong> Sophie </strong> is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar
-  is de Principal Investigator, oftewel PI van het onderzoek at betreft hun cognitieve vaardigheden. Die vaardigheden worden op school vaak gemeten: in apps zoals Snappet en Rekentuin, maar </p>
+  <p> Hallo! Ik ben <b>Sophie Hofman</b>. Ik ben onderzoeksassistent bij het CODEC-project. Ik ben op dit moment ook nog bezig met mijn studie gedragswetenschappen aan de Radboud Universiteit. Ik ben nieuwsgierig naar de ontwikkeling van de hersenen en van cognitieve vaardigheden.             </p>
+
+
+<i class="fas fa-envelope"></i>[  sophie.hofman@radboudumc.nl](Sophie.hofman@radboudumc.nl)
 </div>

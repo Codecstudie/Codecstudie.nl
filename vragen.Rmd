@@ -3,25 +3,36 @@ title: ""
 description: |
 theme: themes.css
 --- 
-# Veelgestelde vragen
-
+<center>
+Veelgestelde vragen
+</center>
 ---
 
 We kunnen ons natuurlijk voorstellen dat je vragen hebt over de studie, daarom hebben wij de meest voorkomende vragen voor u op een rijtje gezet.
 
-### Kan ik ook meedoen als ik als individu mee wil doen, en niet als klas?
-Ja, dat kan. U kunt contact opnemen via het formulier, hier kunt u de optie: Individu aanklikken. We zullen u vervolgens alle nodige informatie sturen over het individueel meedoen met de studie. 
+<b>Kan mijn kind ook als individu mee doen, en niet als klas?</b>
+Ja, dat kan. U kunt contact opnemen door ons een e-mail te sturen, hier kunt u aangeven dat uw kind als individu mee wilt doen. We zullen u vervolgens alle nodige informatie sturen over het individueel meedoen met de studie. 
 
-### Als ik niet in Nijmegen woon, kan mijn klas/ik dan ook meedoen?
+<b>Als ik niet in Nijmegen woon, kan mijn klas/mijn kind dan ook meedoen?</b>
 Jazeker! Voor de gedragdsstudie komen de onderzoekers zelf naar de doorgegeven locatie, dus daar zal het wonen in Nijmegen geen probleem zijn. Voor het MRI deel van is het nodig om naar het Donders instituut in Nijmegen te komen. De reiskosten voor deze reis zullen vergoed worden. 
 
-### Wat als ik wil stoppen met de studie?
-Ook dit kan 
+<b>Wat houdt het geven van toestemming voor het CODEC project  in?</b>
+Alle informatie over het toezeggen van toestemming voor het meedoen aan de CODEC studie is te vinden in de informatiebrieven die u ontvangt voordat uw kind mee doet in het onderzoek. Mocht u nog verdere vragen hebben over het toestemmingsformulier dan kunt u mailen naar: 
 
-### Leeftijd
+<b>Mijn contactgegevens zijn gewijzigd, wat nu?</b>
+Als u contactgegevens zijn gewijzigd kunt u een mailtje sturen naar: codecstudies.cns@radboudumc.nl
+
+<b>Kan ik mijn toestemming intrekken?</b>
+Toestemming voor het onderzoek kan altijd ingetrokken worden. Wil je de toestemming om mee te doen met het onderzoek, of voor het gebruiken van liever terugtrekken? Dan kunt u contact met ons opnemen, via ons mail adres:  
+
+<b>Waar kan ik de wetenschappelijke publicaties over het CODEC onderzoek vinden?</b>
+De toekomstige wetenschappelijke publicaties over het CODEC onderzoek, zijn te vinden op [deze](onderzoek.html) pagina. 
+
+<b>Wie voert het onderzoek uit </b>
+Het onderzoek wordt uitgevoert door een team bij het [Lifespan Cognitive Dynamics Lab](https://lifespancognitivedynamics.com) aan het [Donders Instituut](https://www.ru.nl/donders/). Meer informatie over ons team is te vinden op [deze](team.html) pagina. 
 
 
-### Verdere vragen?
-
-Voor additionele vragen kunt u terecht bij ons mail adres:
-codecstudies@radboudumc.nl 
+<b>Verdere vragen?</b>
+Heeft u vragen die niet beantwoord worden op de site? Dan kunt u mailen naar:
+<strong>codecstudies.cns@radboudumc.nl
+</strong>

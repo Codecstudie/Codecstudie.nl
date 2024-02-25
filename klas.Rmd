@@ -5,18 +5,18 @@ description: |
 
 ---
 
-
+<center>
 ## Langs in de klas
-
+</center>
 Als gift voor de participatie in het onderzoek bieden wij drie <strong> lespakketten </strong> aan die zich focussen op het opwekken van nieuwsgierigheid, het kennismaken met de hersenen en de eerste affiniteit creëren met zelf onderzoek doen. Wij willen de kinderen laten zien dat iedereen wetenschapper kan worden, en dat wetenschap hartstikke leuk is! 
 
 De lespakketten zijn erg interactief, met mooie filmpjes die de kinderen op een leuke manier introduceren aan de lespakketten en de onderzoekers uit ons team die de lessen zullen komen geven in de klas. 
 
 De keuze voor de pakketten is geheel vrij, er kan 1, 2 of alle drie de pakketten gekozen worden. Ook de rol die de docent speelt in het begeleiden is geheel vrije keuze. De lespakketten zijn zo opgesteld dat er voldoende instructie is om de les zelf (als docent) te leiden, maar de lessen kunnen ook gegeven worden door ons team. Wij hebben ervaring in het lesgeven in deze thema's aan kinderen op de basisschool, en zouden deze optie ook zeker aanraden! 
 
-```{r, out.width = "100%", fig.align = 'center', echo=FALSE}
+```{r, out.width = "60%", fig.align = 'center', echo=FALSE}
 
-knitr::include_graphics("images/Lesgeven.png")
+knitr::include_graphics("images/youtubefoto.png")
 
 ```
 

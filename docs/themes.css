@@ -20,6 +20,9 @@ html {
   --body-font:       'Avnir Light', sans-serif;
   --navbar-font:     sans-serif;  /* websites + blogs only */
 }
+
+
+
 .d-title {
 }
 
@@ -58,6 +61,10 @@ d-appendix {
     font-family: var(--navbar-font), var(--heading-default);
 }
 
+.distill-site-nav li.dropdown:hover .dropdown-content {
+    display: block;
+}
+
 
 .distill-site-header a, .distill-site-header .title {
     display: auto;
@@ -92,7 +99,7 @@ d-appendix {
   --bkgd-color:       #ffffff;
 /* background-image for fade-to-white color of navbar */
   background-image: linear-gradient(to top, rgba(178,198,204), rgba(118,163,178));
-  background-color: transparent;
+  background-color: transparent
 }
 
 .distill-site-nav {
@@ -101,6 +108,9 @@ d-appendix {
     font-size: 15px;
     font-weight:
 }
+
+
+
 
 .distill-site-footer {
   --text-color:       rgba(255, 255, 255, 0.8);

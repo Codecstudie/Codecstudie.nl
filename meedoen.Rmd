@@ -4,45 +4,17 @@
 ## Deelname 
 
 </center>
-Met uw kind/klas meedoen aan een onderzoek naar de fluctualiteit in cognitieve vaardigheden, en helpen met het vergroten van de kennis over ? Dat kan!  In dit longitudinale onderzoek bestuderen we één week per jaar, voor drie jaar lang, de cognitieve fluctuatie van kinderen op de basisschool. Het onderzoek begint in <strong> januari  2024 </strong> en zal doorlopen tot <strong> december 2027 </strong>.  
 
-```{r echo=FALSE, out.width = "30%", fig.align = "right"}
-knitr::include_graphics("images/Meedoen.png")
-```
+Met uw kind/klas meedoen aan een onderzoek naar de fluctualiteit in cognitieve vaardigheden, en helpen met het vergroten van de kennis over ? Dat kan!  In dit longitudinale onderzoek bestuderen we één week per jaar, voor drie jaar lang, de cognitieve fluctuatie van kinderen op de basisschool. Het onderzoek begint in <strong> januari  2024 </strong> en zal doorlopen tot <strong> december 2027 </strong>. U kunt met uw klas, of individueel mee doen met <b>de gedragsstudie</b>. Klik [hier](gedragsstudie.html) voor meer informatie over de gedragsstudie. Doet uw kind mee met de gedragsstudie, dan is er ook de optie om mee te doen met <strong> de MRI studie </strong>. Klik [hier](MRI.html) voor meer informatie over de MRI studie.
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/xv2_Bk_0J-Y" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"></iframe></div>
+<b> Wilt u zich aanmelden? Mail dan naar: [  codecstudies.cns@radboudumc.nl](codecstudies.cns@radboudumc.nl) </b>
+<br>
+<br>
+
+[![Alt-tekst](images/Meedoen.png){width=30% align=left}](mailto:codecstudies.cns@radboudumc.nl)
+
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/ol3iZntUKRI" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"></iframe></div>
 
 
 ---
-
-
-
-### Gedragsstudie
-In het CODEC project testen we één week in het jaar, voor 3 jaar lang, de cognitieve 
-vaardigheden van kinderen op de basisschool door middel van leuke tablet “games”.
-
-Wij komen in een “meetweek” met ons onderzoeksteam langs in de klas. De 
-kinderen zullen dan op tablets die het onderzoeksteam meeneemt naar de klas voor 
-1 week, 3 keer per dag voor 15 minuten games spelen op de tablets.
-
-Het is ook mogelijk om individueel mee te doen met de CODEC studie. In dit geval 
-zullen individuele deelnemers ook 1 week lang, 3 keer per dag voor 15 minuten de 
-games spelen op de tablets
-
-
-### MRI (‘Magnetic Resonance Imaging’) 
-Doet uw kind mee met de gedragsstudie, dan is er ook de optie om mee te doen 
-met <strong> het MRI onderzoek </strong>. Bij het Donders instituut hebben we speciale 
-hersenscanners waarme we in de hersenen kunnen kijken terwijl kinderen 
-soortgelijke games doen als de games in de klas. Dit doen we door gebruik te maken
-van ‘MRI’. 
-
-Tijdens de deelname aan het MRI onderzoek worden de deelnemers 
-gevraagd twee keer een dag naar het Donders Instituut te komen, waar de MRI 
-scans gemaakt zullen worden. De eerste onderzoeksdag zal aan het begin van het 
-onderzoek plaatsvinden, en de tweede onderzoeksdag vindt plaats 3 jaar later.
-[Formulier waar de interesse in kan worden aangegeven, zodat er contact kan 
-
-
-
-
