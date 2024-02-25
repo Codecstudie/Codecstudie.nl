@@ -4,9 +4,10 @@ description: |
 theme: themes.css
 --- 
 <center>
-Veelgestelde vragen
+
+## Veelgestelde vragen
+
 </center>
----
 
 We kunnen ons natuurlijk voorstellen dat je vragen hebt over de studie, daarom hebben wij de meest voorkomende vragen voor u op een rijtje gezet.
 
