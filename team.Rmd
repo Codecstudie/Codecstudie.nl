@@ -81,3 +81,11 @@ knitr::include_graphics("images/Groepsfoto.jpeg")
 
 <i class="fas fa-envelope"></i>[  sophie.hofman@radboudumc.nl](Sophie.hofman@radboudumc.nl)
 </div>
+---
+<div style="overflow: auto;">
+  <img src="images/Jesse.png" style="width: 30%; float: left; margin-right: 20px;">
+  <p> Hallo! Mijn naam is <b>Jesse Willems</b> en ik loop als student Biomedical Science stage bij het CODEC-team. Ik ben nieuwsgierig hoe onze hersenen en cognitieve vaardigheden zich ontwikkelen gedurende ons leven.             </p>
+
+
+<i class="fas fa-envelope"></i>[  jesse.willems@radboudumc.nl](Sophie.hofman@radboudumc.nl)
+</div>
