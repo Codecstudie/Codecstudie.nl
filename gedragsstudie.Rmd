@@ -14,9 +14,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<b> Wilt u zich aanmelden? Of wilt u meer informatie? Mail dan naar: [  codecstudies.cns@radboudumc.nl](codecstudies.cns@radboudumc.nl) </b>
 
-In het CODEC project testen we één week in het jaar, voor 3 jaar lang, de cognitieve 
+In het CODEC project testen we één week in het jaar, 3 jaar lang, de cognitieve 
 vaardigheden van kinderen op de basisschool door middel van leuke tablet games.
 
 Wij komen in een “meetweek” met ons onderzoeksteam langs in de klas. De 
@@ -25,12 +24,24 @@ kinderen zullen dan op tablets die het onderzoeksteam meeneemt naar de klas voor
 
 Als een gift voor de participatie in de gedragsstudie hebben wij drie leuke en leerzame lespakketten gemaakt over de hersenen en de wetenschap, die wij komen geven in de klas. Klik [hier](klas.html) voor meer informatie over de gift.
 
+[![Alt-tekst](images/Meedoenknop.png){width=30%}](meedoen.html)
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/SJ8AXydj9pU" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"></iframe></div>
+
+
+---
+
+<center>
+## Individuele deelname
+</center>
+
 Het is ook mogelijk om <i>individueel</i> mee te doen met de CODEC studie. In dit geval 
 zullen individuele deelnemers ook 1 week lang, 3 keer per dag voor 15 minuten de 
 games spelen op de tablets
 
+De kinderen krijgen van ons een tablet te leen of gebruiken hun eigen tablet waarop een speciale app staat die wij hebben gemaakt. Een keer per jaar vragen we de kinderen om de app een week lang 3 keer op dezelfde dag een korte tijd (15 minuten) te gebruiken. Dat kan gewoon thuis. Daarnaast vragen we nog tot 2 maal per jaar om al de taakjes een keertje opnieuw te doen (25 minuten per keer).
 
-
+[![Alt-tekst](images/Meedoenknop.png){width=30% align="right"}](meedoen.html)
 
 ---
 
@@ -91,14 +102,5 @@ knitr::include_graphics("images/Piraat.png")
 </div>
 
 
----
-<center>
-## Individuele deelname
-</center>
-
-Zoals bovenstaand genoemd is het ook mogelijk om individueel deel te nemen aan de CODEC gedragsstudie. 
-De kinderen krijgen van ons een tablet te leen of gebruiken hun eigen tablet waarop een speciale app staat die wij hebben gemaakt. Een keer per jaar vragen we de kinderen om de app een week lang 3 keer op dezelfde dag een korte tijd (15 minuten) te gebruiken. Dat kan gewoon thuis. Daarnaast vragen we nog tot 2 maal per jaar om al de taakjes een keertje opnieuw te doen (25 minuten per keer).
-
-<b> Wilt u zich aanmelden? Of wilt u meer informatie? Mail dan naar: [  codecstudies.cns@radboudumc.nl](codecstudies.cns@radboudumc.nl) </b>
 
 
