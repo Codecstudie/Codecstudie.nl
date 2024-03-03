@@ -1,10 +1,10 @@
 ---
-title: 
+title: ""
 description: |
-
+favicons: ["images/favicon.ico"]
 ---
 ## Contact
-U kunt contact opnemen met ons team(team.html) via het e-mail adres: <b>codecstudies.cns@radboudumc.nl</b>
+U kunt contact opnemen met ons [team](team.html) via het e-mail adres: <b>codecstudies.cns@radboudumc.nl</b>
 
 We kunnen ons natuurlijk voorstellen dat u vragen heeft over de studie, daarom hebben wij de meest voorkomende vragen voor u op een rijtje gezet. [Hier](vragen.html) vindt u de antwoorden op de <b>[veelgestelde vragen](vragen.html)</b>
 

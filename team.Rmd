@@ -3,6 +3,7 @@ title: "Team"
 output:
   distill::distill_article:
     theme: theme.css
+favicons: ["images/favicon.ico"]
 --- 
 <center>
 

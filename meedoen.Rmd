@@ -1,4 +1,8 @@
-
+---
+title: ""
+description: |
+favicons: ["images/favicon.ico"]
+--- 
 <center>
 
 ## Meedoen

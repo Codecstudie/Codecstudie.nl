@@ -62,7 +62,7 @@ d-appendix {
 }
 
 .distill-site-nav li.dropdown:hover .dropdown-content {
-    display: block;
+    display: flex;
 }
 
 

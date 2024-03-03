@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+favicons: ["images/favicon.ico"]
 output: 
   distill::distill_article:
     toc: true

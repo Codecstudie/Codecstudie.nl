@@ -1,9 +1,8 @@
 ---
-title: "Lespakketten"
+title: ""
 description: |
-
-
----
+favicons: ["images/favicon.ico"]
+--- 
 
 <center>
 ## Lespakketten
