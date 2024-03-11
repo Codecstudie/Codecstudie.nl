@@ -88,27 +88,27 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>de CODEC studie: </title>
+  <title>de CODEC studie: Meedoen</title>
 
 
   <link rel="icon" type="image/vnd.microsoft.icon" href="images/favicon.ico"/>
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="de CODEC studie: "/>
+  <meta property="og:title" content="de CODEC studie: Meedoen"/>
   <meta property="og:type" content="article"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="de CODEC studie"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="de CODEC studie: "/>
+  <meta property="twitter:title" content="de CODEC studie: Meedoen"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","favicons"]}},"value":[{"type":"character","attributes":{},"value":[""]},{"type":"NULL"},{"type":"character","attributes":{},"value":["images/favicon.ico"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","favicons"]}},"value":[{"type":"character","attributes":{},"value":["Meedoen"]},{"type":"NULL"},{"type":"character","attributes":{},"value":["images/favicon.ico"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -1951,10 +1951,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* These properties only apply to Distill sites and blogs  */
   .distill-site-header a, .nav-dropdown .nav-dropbtn {
       font-family: var(--navbar-font), var(--heading-default);
+      
   }
 
   .distill-site-nav li.dropdown:hover .dropdown-content {
-      display: flex;
+      display: ;
+      overflow-y: auto;
+      max-height: none;
   }
 
 
@@ -1962,6 +1965,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
       display: auto;
       text-align: center;
       padding: 23px 40px 14px 10px;
+      max-height: none;
+
   }
 
 
@@ -1970,7 +1975,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   } 
 
   .distill-site-header .title {
-      display: inline-block;
+      display: none;
   }
 
   .distill-site-header .logo img {
@@ -2009,6 +2014,16 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --text-size:        15px;
     --hover-color:      white;
     --bkgd-color:       #0F2E3D;
+  }
+
+  @media screen and (max-width: 768px) {
+      .distill-site-header {
+          overflow: auto; /* Enable scrolling for smaller screens */
+      }
+
+      .distill-site-nav {
+          display: block; /* Show navigation on smaller screens */
+      }
   }</style>
   <style type="text/css">
   /* base style */
@@ -2185,7 +2200,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"","authors":[]}
+{"title":"Meedoen","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2216,7 +2231,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>meedoen.knit</h1>
+<h1>Meedoen</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
 
@@ -2227,7 +2242,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <center>
 <h2 id="meedoen">Meedoen</h2>
 </center>
-<p>Met uw kind/klas meedoen aan een onderzoek naar de fluctualiteit in cognitieve vaardigheden, en helpen met het vergroten van de kennis over ? Dat kan! In dit longitudinale onderzoek bestuderen we één week per jaar, voor drie jaar lang, de cognitieve fluctuatie van kinderen op de basisschool. Het onderzoek begint in <strong> januari 2024 </strong> en zal doorlopen tot <strong> december 2027 </strong>. Het CODEC onderzoek bestaat uit twee delen, de gedragsstudie en de MRI studie. U kunt met uw klas, of individueel mee doen met <b>de gedragsstudie</b>. Klik <a href="gedragsstudie.html">hier</a> voor meer informatie over de gedragsstudie. Doet uw kind mee met de gedragsstudie, dan is er ook de optie om mee te doen met <strong> de MRI studie </strong>. Klik <a href="MRI.html">hier</a> voor meer informatie over de MRI studie.</p>
+<p>Met uw kind/klas meedoen aan een onderzoek naar de fluctualiteit in cognitieve vaardigheden, en helpen met het vergroten van de kennis over ? Dat kan! In dit longitudinale onderzoek bestuderen we één week per jaar, voor drie jaar lang, de cognitieve fluctuatie van kinderen op de basisschool. Het onderzoek begint in <strong> januari 2024 </strong> en zal doorlopen tot <strong> december 2027. </strong> Het CODEC onderzoek bestaat uit twee delen, de gedragsstudie en de MRI studie. U kunt met uw klas, of individueel mee doen met <b>de gedragsstudie</b>. Klik <a href="gedragsstudie.html">hier</a> voor meer informatie over de gedragsstudie. Doet uw kind mee met de gedragsstudie, dan is er ook de optie om mee te doen met <strong> de MRI studie.</strong> Klik <a href="MRI.html">hier</a> voor meer informatie over de MRI studie.</p>
 <p><b> Wilt u zich aanmelden? Mail dan naar: <a href="codecstudies.cns@radboudumc.nl">codecstudies.cns@radboudumc.nl</a> </b>
 <br></p>
 <p><a href="mailto:codecstudies.cns@radboudumc.nl"><img src="images/Meedoen.png" style="width:30.0%" data-align="left" alt="Alt-tekst" /></a></p>
@@ -2236,6 +2251,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </iframe>
 </div>
 <hr />
+<p><b> Wat betekent deelname voor mij als:</b>
+<br></p>
+<p><b>Leerkracht</b>
+Wij komen met ons team langs in de klas bij de start van het onderzoek. U zult als leerkracht instructies ontvangen over het begeleiden van de klas tijdens het uitvoeren van de tablet games. Bij interesse in het meedoen met het onderzoek plannen we een kort gesprek in, waar wij het onderzoek vrijblijvend zullen komen toelichten. Voor meer informatie over de deelname met de klas kunt u <a href="gedragsstudie.html#gedragsstudie">hier</a> terecht!</p>
+<p><b> Ouder </b>
+Als uw kind deelneemt aan de CODEC studie in de klas, zal er aan u worden gevraagd om toestemming te geven voor het meedoen aan het onderzoek. Als u kind meedoet met de individuele gedragsstudie, zal uw kind thuis op een tablet de taakjes gaan doen. Er zal dan aan u worden gevraagd om toetstemming te geven voor het meedoen aan het onderzoek, en u zult van ons instructies ontvangen over het begeleiden van uw kind tijdens het uitvoeren van de taakjes uit het onderzoek. Voor meer informatie over de individuele deelname kunt u <a href="gedragsstudie.html#individuele-deelname">hier</a> terecht.</p>
+<p><b> Deelnemer </b>
+Als deelnemer in het Codec project ga je een week lang een paar keer per dag leuke spelletjes spelen op een tablet, op school of thuis. In deze spelletjes ga jij samen met piraat CODEC opzoek naar grote schatten. Wil je meer weten over de spelletjes? Klik dan <a href="gedragsstudie.html#de-tablet-games">hier</a>!</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

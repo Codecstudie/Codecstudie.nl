@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Home"
 site: distill::distill_website
 theme: themes.css
 favicons: ["images/favicon.ico"]

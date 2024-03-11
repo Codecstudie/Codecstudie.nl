@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Cognitieve fluctuatie"
 description: |
 favicons: ["images/favicon.ico"]
 --- 

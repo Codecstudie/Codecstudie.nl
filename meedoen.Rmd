@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Meedoen"
 description: |
 favicons: ["images/favicon.ico"]
 --- 
@@ -9,7 +9,7 @@ favicons: ["images/favicon.ico"]
 
 </center>
 
-Met uw kind/klas meedoen aan een onderzoek naar de fluctualiteit in cognitieve vaardigheden, en helpen met het vergroten van de kennis over ? Dat kan!  In dit longitudinale onderzoek bestuderen we één week per jaar, voor drie jaar lang, de cognitieve fluctuatie van kinderen op de basisschool. Het onderzoek begint in <strong> januari  2024 </strong> en zal doorlopen tot <strong> december 2027 </strong>. Het CODEC onderzoek bestaat uit twee delen, de gedragsstudie en de MRI studie. U kunt met uw klas, of individueel mee doen met <b>de gedragsstudie</b>. Klik [hier](gedragsstudie.html) voor meer informatie over de gedragsstudie. Doet uw kind mee met de gedragsstudie, dan is er ook de optie om mee te doen met <strong> de MRI studie </strong>. Klik [hier](MRI.html) voor meer informatie over de MRI studie.
+Met uw kind/klas meedoen aan een onderzoek naar de fluctualiteit in cognitieve vaardigheden, en helpen met het vergroten van de kennis over ? Dat kan! In dit longitudinale onderzoek bestuderen we één week per jaar, voor drie jaar lang, de cognitieve fluctuatie van kinderen op de basisschool. Het onderzoek begint in <strong> januari  2024 </strong> en zal doorlopen tot <strong> december 2027. </strong> Het CODEC onderzoek bestaat uit twee delen, de gedragsstudie en de MRI studie. U kunt met uw klas, of individueel mee doen met <b>de gedragsstudie</b>. Klik [hier](gedragsstudie.html) voor meer informatie over de gedragsstudie. Doet uw kind mee met de gedragsstudie, dan is er ook de optie om mee te doen met <strong> de MRI studie.</strong> Klik [hier](MRI.html) voor meer informatie over de MRI studie.
 
 <b> Wilt u zich aanmelden? Mail dan naar: [  codecstudies.cns@radboudumc.nl](codecstudies.cns@radboudumc.nl) </b>
 <br>
@@ -19,5 +19,17 @@ Met uw kind/klas meedoen aan een onderzoek naar de fluctualiteit in cognitieve v
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/ol3iZntUKRI" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"></iframe></div>
 
-
 ---
+
+<b> Wat betekent deelname voor mij als:</b>
+<br>
+
+<b>Leerkracht</b>
+Wij komen met ons team langs in de klas bij de start van het onderzoek. U zult als leerkracht instructies ontvangen over het begeleiden van de klas tijdens het uitvoeren van de tablet games. Bij interesse in het meedoen met het onderzoek plannen we een kort gesprek in, waar wij het onderzoek vrijblijvend zullen komen toelichten.  Voor meer informatie over de deelname met de klas kunt u [hier](gedragsstudie.html#gedragsstudie) terecht!
+
+
+<b> Ouder </b>
+Als uw kind deelneemt aan de CODEC studie in de klas, zal er aan u worden gevraagd om toestemming te geven voor het meedoen aan het onderzoek. Als u kind meedoet met de individuele gedragsstudie, zal uw kind thuis op een tablet de taakjes gaan doen. Er zal dan aan u worden gevraagd om toetstemming te geven voor het meedoen aan het onderzoek, en u zult van ons instructies ontvangen over het begeleiden van uw kind tijdens het uitvoeren van  de taakjes uit het onderzoek. Voor meer informatie over de individuele deelname kunt u [hier](gedragsstudie.html#individuele-deelname) terecht.
+
+<b> Deelnemer </b>
+Als deelnemer in het Codec project ga je een week lang een paar keer per dag leuke spelletjes spelen op een tablet, op school of thuis. In deze spelletjes ga jij samen met piraat CODEC opzoek naar grote schatten. Wil je meer weten over de spelletjes? Klik dan [hier](gedragsstudie.html#de-tablet-games)!

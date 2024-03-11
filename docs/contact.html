@@ -88,27 +88,27 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>de CODEC studie: </title>
+  <title>de CODEC studie: Contact</title>
 
 
   <link rel="icon" type="image/vnd.microsoft.icon" href="images/favicon.ico"/>
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="de CODEC studie: "/>
+  <meta property="og:title" content="de CODEC studie: Contact"/>
   <meta property="og:type" content="article"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="de CODEC studie"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="de CODEC studie: "/>
+  <meta property="twitter:title" content="de CODEC studie: Contact"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","favicons"]}},"value":[{"type":"character","attributes":{},"value":[""]},{"type":"NULL"},{"type":"character","attributes":{},"value":["images/favicon.ico"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","favicons"]}},"value":[{"type":"character","attributes":{},"value":["Contact"]},{"type":"NULL"},{"type":"character","attributes":{},"value":["images/favicon.ico"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -1951,10 +1951,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* These properties only apply to Distill sites and blogs  */
   .distill-site-header a, .nav-dropdown .nav-dropbtn {
       font-family: var(--navbar-font), var(--heading-default);
+      
   }
 
   .distill-site-nav li.dropdown:hover .dropdown-content {
-      display: flex;
+      display: ;
+      overflow-y: auto;
+      max-height: none;
   }
 
 
@@ -1962,6 +1965,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
       display: auto;
       text-align: center;
       padding: 23px 40px 14px 10px;
+      max-height: none;
+
   }
 
 
@@ -1970,7 +1975,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   } 
 
   .distill-site-header .title {
-      display: inline-block;
+      display: none;
   }
 
   .distill-site-header .logo img {
@@ -2009,6 +2014,16 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --text-size:        15px;
     --hover-color:      white;
     --bkgd-color:       #0F2E3D;
+  }
+
+  @media screen and (max-width: 768px) {
+      .distill-site-header {
+          overflow: auto; /* Enable scrolling for smaller screens */
+      }
+
+      .distill-site-nav {
+          display: block; /* Show navigation on smaller screens */
+      }
   }</style>
   <style type="text/css">
   /* base style */
@@ -2185,7 +2200,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"","authors":[]}
+{"title":"Contact","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2216,7 +2231,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>contact.knit</h1>
+<h1>Contact</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
 

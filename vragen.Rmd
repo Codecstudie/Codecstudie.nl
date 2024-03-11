@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Veelgestelde vragen"
 description: |
 favicons: ["images/favicon.ico"]
 theme: themes.css

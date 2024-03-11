@@ -1951,10 +1951,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* These properties only apply to Distill sites and blogs  */
   .distill-site-header a, .nav-dropdown .nav-dropbtn {
       font-family: var(--navbar-font), var(--heading-default);
+      
   }
 
   .distill-site-nav li.dropdown:hover .dropdown-content {
-      display: flex;
+      display: ;
+      overflow-y: auto;
+      max-height: none;
   }
 
 
@@ -1962,6 +1965,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
       display: auto;
       text-align: center;
       padding: 23px 40px 14px 10px;
+      max-height: none;
+
   }
 
 
@@ -1970,7 +1975,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   } 
 
   .distill-site-header .title {
-      display: inline-block;
+      display: none;
   }
 
   .distill-site-header .logo img {
@@ -2009,6 +2014,16 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --text-size:        15px;
     --hover-color:      white;
     --bkgd-color:       #0F2E3D;
+  }
+
+  @media screen and (max-width: 768px) {
+      .distill-site-header {
+          overflow: auto; /* Enable scrolling for smaller screens */
+      }
+
+      .distill-site-nav {
+          display: block; /* Show navigation on smaller screens */
+      }
   }</style>
   <style type="text/css">
   /* base style */
