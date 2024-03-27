@@ -91,7 +91,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <title>de CODEC studie: Gedragsstudie</title>
 
 
-  <link rel="icon" type="image/vnd.microsoft.icon" href="images/favicon.ico"/>
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
@@ -108,7 +107,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","favicons","output"]}},"value":[{"type":"character","attributes":{},"value":["Gedragsstudie"]},{"type":"character","attributes":{},"value":["images/favicon.ico"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth","toc_float","toc_title"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[3]},{"type":"logical","attributes":{},"value":[true]},{"type":"character","attributes":{},"value":[" "]}]}]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","output"]}},"value":[{"type":"character","attributes":{},"value":["Gedragsstudie"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth","toc_float","toc_title"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[3]},{"type":"logical","attributes":{},"value":[true]},{"type":"character","attributes":{},"value":[" "]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -1951,13 +1950,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* These properties only apply to Distill sites and blogs  */
   .distill-site-header a, .nav-dropdown .nav-dropbtn {
       font-family: var(--navbar-font), var(--heading-default);
-      
   }
 
   .distill-site-nav li.dropdown:hover .dropdown-content {
-      display: ;
-      overflow-y: auto;
-      max-height: none;
+      display: block;
   }
 
 
@@ -1965,8 +1961,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
       display: auto;
       text-align: center;
       padding: 23px 40px 14px 10px;
-      max-height: none;
-
   }
 
 
@@ -1975,7 +1969,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   } 
 
   .distill-site-header .title {
-      display: none;
+      display: inline-block;
   }
 
   .distill-site-header .logo img {
@@ -2014,16 +2008,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --text-size:        15px;
     --hover-color:      white;
     --bkgd-color:       #0F2E3D;
-  }
-
-  @media screen and (max-width: 768px) {
-      .distill-site-header {
-          overflow: auto; /* Enable scrolling for smaller screens */
-      }
-
-      .distill-site-nav {
-          display: block; /* Show navigation on smaller screens */
-      }
   }</style>
   <style type="text/css">
   /* base style */
@@ -2244,7 +2228,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <h3>Contents</h3>
 <ul>
 <li><a href="#gedragsstudie" id="toc-gedragsstudie">Gedragsstudie</a></li>
-<li><a href="#individuele-deelname-vanaf-thuis" id="toc-individuele-deelname-vanaf-thuis">Individuele deelname (vanaf thuis)</a></li>
+<li><a href="#individuele-deelname" id="toc-individuele-deelname">Individuele deelname</a></li>
 <li><a href="#de-tablet-games" id="toc-de-tablet-games">De tablet games</a></li>
 </ul>
 </nav>
@@ -2265,10 +2249,8 @@ kinderen zullen dan op tablets die het onderzoeksteam meeneemt naar de klas voor
 </div>
 <hr />
 <center>
-<h2 id="individuele-deelname-vanaf-thuis">Individuele deelname (vanaf thuis)</h2>
+<h2 id="individuele-deelname">Individuele deelname</h2>
 </center>
-<p>Doe je mee vanaf thuis, 1 week, wellicht nog een bonus dag.
-Visuele indicatie: wat willen we van jou (ouders)</p>
 <p>Het is ook mogelijk om <i>individueel</i> mee te doen met de CODEC studie. In dit geval
 zullen individuele deelnemers ook 1 week lang, 3 keer per dag voor 15 minuten de
 games spelen op de tablets</p>
