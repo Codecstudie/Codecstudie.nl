@@ -21,16 +21,21 @@ knitr::include_graphics("images/youtubefoto.png")
 
 <strong> Hoe word ik een goede wetenschapper </strong> Het centrale thema uit het eerste pakket is Hoe word ik een goede wetenschapper. In dit pakket zullen de leerlingen zelf wetenschap bedrijven middels een tastbaar, makkelijk uit te voeren experiment. Ook ligt de nadruk in deze les op nieuwsgierigheid, vragen stellen, en deze met onderzoekjes kunnen beantwoorden.
 
+<a href="images/Lespakket 1.pdf" download="Lespakket 1">Download Lespakket 1 </a>
 
 <strong> De Zintuigen </strong> In pakket 2 staan de zintuigen centraal, hier leren de leerlingen over de 5 zintuigen en hun interacties , middels leuke en uitdagende experimenten. Voor alle 5 de zintuigen is een leuk en interactief experiment bedacht, met materialen die door ons onderzoeksteam naar de klas meegenomen worden. De nadruk in dit pakket ligt op het kennismaken met de zintuigen middels tastbare experimenten, waardoor de verschillende functies van de zintuigen worden uitgelicht. 
 
+<a href="images/Lespakket 2.pdf" download="Lespakket 2">Download Lespakket 2 </a>
 
 <strong> Leren over Cognitie </strong> In pakket 3 maken de kinderen nog meer kennis met de hersenen, en leren ze over hun geheugen, aandacht en cognitie, en zullen we ze kennis laten maken met onderwerpen die centraal staan in het CODEC project. Ook dit pakket zit vol met leuke en interactieve experimenten die de kinderen in de klas zullen uitvoeren. 
 
+<a href="images/Lespakket 3.pdf" download="Lespakket 3">Download Lespakket 3 </a>
 
 
 
 ![](images/Lespakket.png){width=“100%“}
+
+
 <br>
 
 <b>Filmpjes bij de lespakketten </b> Voor alle lespakketten hebben we leuke introductiefilmpjes gemaakt, die de onderwerpen van de les introduceren aan de kinderen in de klas. 

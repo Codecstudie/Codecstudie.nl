@@ -50,14 +50,16 @@ De kinderen krijgen van ons een tablet te leen of gebruiken hun eigen tablet waa
 <center>
 ## De tablet games
 </center>
-
-De games op de tablet hebben allemaal een piraten thema. De piraten leiden de kinderen door de games heen, en de kinderen kunnen met elke opdracht muntjes verdienen. In de games zitten dus leuke spelelementen, en het zijn leerzame oefeningen. Hieronder hebben we de 5 games beschreven. 
+De games op de tablet hebben allemaal een piraten thema. <b> Piraat CODEC </b> leidt de kinderen door de games heen, en de kinderen kunnen met elke opdracht muntjes verdienen. In de games zitten dus leuke spelelementen, en het zijn leerzame oefeningen. Hieronder hebben we de 5 games beschreven. 
 
 ```{r, out.width = "40%", fig.align = 'center', echo=FALSE}
 
 knitr::include_graphics("images/Piraat.png")
 
 ```
+
+
+
 
 <br>
 
@@ -103,6 +105,8 @@ knitr::include_graphics("images/Piraat.png")
 
 </div>
 
+<br>
 
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/91ROe93rKWU" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"></iframe></div>
 
 
