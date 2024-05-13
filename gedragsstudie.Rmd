@@ -41,8 +41,13 @@ Het is ook mogelijk om <i>individueel</i> mee te doen met de CODEC studie. In di
 zullen individuele deelnemers ook 1 week lang, 3 keer per dag voor 15 minuten de 
 games spelen op de tablets
 
-De kinderen krijgen van ons een tablet te leen of gebruiken hun eigen tablet waarop een speciale app staat die wij hebben gemaakt. Een keer per jaar vragen we de kinderen om de app een week lang 3 keer op dezelfde dag een korte tijd (15 minuten) te gebruiken. Dat kan gewoon thuis. Daarnaast vragen we nog tot 2 maal per jaar om al de taakjes een keertje opnieuw te doen (25 minuten per keer).
+De kinderen krijgen van ons een tablet te leen of gebruiken hun eigen tablet waarop een speciale app staat die wij hebben gemaakt. Een keer per jaar vragen we de kinderen om de app een week lang 3 keer op dezelfde dag een korte tijd (15 minuten) te gebruiken.
 
+```{r, out.width = "80%", fig.align = 'center', echo=FALSE}
+
+knitr::include_graphics("images/Individuele_spelregels.png")
+
+```
 [![Alt-tekst](images/Meedoenknop.png){width=30% align="right"}](meedoen.html)
 
 ---
